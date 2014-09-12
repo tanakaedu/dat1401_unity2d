@@ -26,11 +26,14 @@ Unity公式ページの2Dチュートリアルの進め方
 
 
 # 追記
-1.3 敵(Enemy)のアニメーション
+## 1.3 敵(Enemy)のアニメーション
 Spaceship_4からSpaceship_7までドラッグ＆ドロップした後、Assets/Animations/Enemyフォルダ内に、Normal.animの名前で保存する。
 
+## 2.3 プレイヤーを動かす準備
 
-
+「前章で作成したプレイヤーのゲームオブジェクトにRigidbody2Dをアタッチしましょう。」
+↓
+前章で作成したプレイヤーのゲームオブジェクトを[Hierarchy]ビューから選択して、[Component]→[Physics 2D]→[Rigidbody 2D]を選択して、アタッチしましょう。
 
 
 
